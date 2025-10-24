@@ -4,7 +4,7 @@ A classic side-scrolling Mario game built with HTML5 Canvas and JavaScript, feat
 
 ## 🚀 Play the Game
 
-[Play Now on GitHub Pages](https://qinxuqiang.github.io/mario-game)
+[Play Now on GitHub Pages](https://qinxuqiang.github.io/8-bit-mario)
 
 ## ✨ Features
 
